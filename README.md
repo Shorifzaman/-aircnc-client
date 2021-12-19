@@ -5,7 +5,7 @@
 
 
 # mernstack-hotelbooking-aircnc
-- This site was built using [GitHub client](https://pages.github.com/shorifzaman).
+- This site was built using [GitHub client](https://github.com/Shorifzaman/-aircnc-client).
 
 - This site was built using [GitHub server](https://github.com/Shorifzaman/aircnc-server).
 
